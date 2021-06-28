@@ -2,7 +2,7 @@
  Unity 3D Labirent Savaş Oyunu
 
 # Tanıtım
-Oyun içersiinde bir karaktere sahipsiniz ve düşmanları öldürerek oyun içerisindeki ek puanları toplayarak Bir sonraki labirente geçebilirsiniz.
+Oyun içerisinde bir karaktere sahipsiniz ve düşmanları öldürerek oyun içerisindeki puan, can ve mermileri toplayarak bir sonraki labirente geçebilirsiniz.
 
 # Başlangıç Menüsü
 ![Labirent-Savas-Oyunu-Image-1](https://user-images.githubusercontent.com/50529546/123688015-3c953600-d85a-11eb-985a-fcabebd7327b.gif)
